@@ -15,6 +15,8 @@ INSTRUCTION TO RUN THE CODE
 8. DIFFERENT REVIEWS WILL SHOW DIFFERENT OUTPUT
 
 APPROACH
+
+
 This code is for sentiment analysis on movie reviews using  utilizes LSTM layers to capture sequential dependencies in text. The key steps in the process include:
 
 Loading the Pre-trained Model: The model architecture and weights are loaded from a saved HDF5 file (model.h5). This model has been trained on text data for classifying reviews as either positive or negative.

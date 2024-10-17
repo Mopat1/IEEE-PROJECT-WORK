@@ -30,8 +30,8 @@ Prediction: The model predicts the sentiment based on the processed input. A thr
 The use of tokenization and padding ensures that any review can be fed into the model, and the LSTM layers handle the sequential nature of the text, enabling effective sentiment prediction.
 
 
-SECTION -3
-IF SECTION 3 DOESN'T SHOW ANYTHING PLEASE CLICK "VIEW RAW". It will download the pdf and word file for research poster and summary
+SECTION 1 AND SECTION -3
+IF SECTION 1&3 DOESN'T SHOW ANYTHING PLEASE CLICK "VIEW RAW". It will download the pdf and word file for research poster and summary
    
 
 

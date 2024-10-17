@@ -5,7 +5,7 @@ This project will label a review as positive or negative according to the review
 
 INSTRUCTION TO RUN THE CODE
 
-1. open the RUNINGandWEB.ipynb Notebook
+1. open the SECTION-2(TASK1).ipynb Notebook
 2. On  TOP LEFT user will see an option to open the code on google colab(OPEN IN GOOGLE COLAB) . click on it
 3. Wait for the notebook to open completely
 4. SCROLL ALL THE WAY DOWN TO THE LAST BLOCK OF CODE
